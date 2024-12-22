@@ -9,7 +9,7 @@ I'm **You Ming-Yeh**, an Information Management student at **National Taiwan Uni
 - **Data Mining**
 - **Social Media Analysis**
 
-I am passionate about building innovative AI-powered solutions and leveraging cutting-edge technologies to solve complex problems.
+I am passionate about building innovative AI-powered solutions and leveraging cutting-edge technologies to solve complex problems, so I build full-stack app as well ✔️!
 
 ## 📫 Let's Connect!
 
